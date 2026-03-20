@@ -5,7 +5,8 @@
     "lastName": "Pavloff",
     "email": "mpavloff@letudiant.fr",
     "favorites": [],
-    "createdAt": "2026-03-20T09:36:49.329Z"
+    "createdAt": "2026-03-20T09:36:49.329Z",
+    "role": "admin"
   },
   {
     "id": "p_1774001393370",
