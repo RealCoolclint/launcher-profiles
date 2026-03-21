@@ -4,9 +4,7 @@
     "firstName": "Martin",
     "lastName": "Pavloff",
     "email": "mpavloff@letudiant.fr",
-    "favorites": [
-      "backupflow"
-    ],
+    "favorites": [],
     "createdAt": "2026-03-20T09:36:49.329Z",
     "role": "admin",
     "group": "cellule",
