@@ -16,6 +16,9 @@
     "lastName": "Das Neves",
     "email": "mdasneves@letudiant.fr",
     "favorites": [],
-    "createdAt": "2026-03-20T10:09:53.370Z"
+    "createdAt": "2026-03-20T10:09:53.370Z",
+    "group": "cellule",
+    "jobRole": "Alternant Cadreur / Monteur",
+    "role": "user"
   }
 ]
