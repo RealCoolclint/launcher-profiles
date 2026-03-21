@@ -6,7 +6,9 @@
     "email": "mpavloff@letudiant.fr",
     "favorites": [],
     "createdAt": "2026-03-20T09:36:49.329Z",
-    "role": "admin"
+    "role": "admin",
+    "group": "cellule",
+    "jobRole": "Directeur de cellule"
   },
   {
     "id": "p_1774001393370",
