@@ -12,8 +12,8 @@
     "appPermissions": {
       "backupflow": "active",
       "transporter": "active",
-      "reviewer": "vitrine",
-      "manifest": "masqué"
+      "reviewer": "active",
+      "manifest": "active"
     }
   },
   {
