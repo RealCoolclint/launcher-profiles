@@ -33,5 +33,14 @@
       "reviewer": "active",
       "manifest": "active"
     }
+  },
+  {
+    "id": "p_1774200650086",
+    "firstName": "Sam",
+    "lastName": "Pavloff",
+    "email": "spavloff@letudiant.fr",
+    "favorites": [],
+    "createdAt": "2026-03-22T17:30:50.086Z",
+    "avatar": "assets/avatars/avatar_08.jpeg"
   }
 ]
