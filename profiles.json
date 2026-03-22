@@ -19,7 +19,8 @@
     "soundEnabled": false,
     "seenApps": [
       "backupflow",
-      "transporter"
+      "transporter",
+      "manifest"
     ]
   },
   {
