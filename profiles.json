@@ -17,7 +17,9 @@
     },
     "avatar": "assets/avatars/avatar_13.jpeg",
     "soundEnabled": false,
-    "seenApps": []
+    "seenApps": [
+      "backupflow"
+    ]
   },
   {
     "id": "p_1774200650086",
