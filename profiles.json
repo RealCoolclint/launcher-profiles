@@ -16,7 +16,8 @@
       "manifest": "active"
     },
     "avatar": "assets/avatars/avatar_13.jpeg",
-    "soundEnabled": false
+    "soundEnabled": false,
+    "seenApps": []
   },
   {
     "id": "p_1774200650086",
@@ -38,6 +39,7 @@
     "settings": {
       "volume": 100
     },
-    "soundEnabled": false
+    "soundEnabled": false,
+    "seenApps": []
   }
 ]
