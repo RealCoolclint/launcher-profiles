@@ -38,6 +38,6 @@
     "settings": {
       "volume": 100
     },
-    "soundEnabled": true
+    "soundEnabled": false
   }
 ]
