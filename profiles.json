@@ -42,6 +42,15 @@
     "email": "spavloff@letudiant.fr",
     "favorites": [],
     "createdAt": "2026-03-22T17:30:50.086Z",
-    "avatar": "assets/avatars/avatar_08.jpeg"
+    "avatar": "assets/avatars/avatar_08.jpeg",
+    "group": "cellule",
+    "jobRole": "",
+    "role": "user",
+    "appPermissions": {
+      "backupflow": "active",
+      "transporter": "active",
+      "reviewer": "active",
+      "manifest": "active"
+    }
   }
 ]
