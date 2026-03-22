@@ -15,7 +15,8 @@
       "reviewer": "active",
       "manifest": "active"
     },
-    "avatar": "assets/avatars/avatar_13.jpeg"
+    "avatar": "assets/avatars/avatar_13.jpeg",
+    "soundEnabled": false
   },
   {
     "id": "p_1774200650086",
