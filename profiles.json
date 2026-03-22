@@ -37,6 +37,7 @@
     },
     "settings": {
       "volume": 100
-    }
+    },
+    "soundEnabled": false
   }
 ]
