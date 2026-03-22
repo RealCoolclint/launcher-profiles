@@ -18,24 +18,6 @@
     "avatar": "assets/avatars/avatar_13.jpeg"
   },
   {
-    "id": "p_1774001393370",
-    "firstName": "Maëlle",
-    "lastName": "Das Neves",
-    "email": "mdasneves@letudiant.fr",
-    "favorites": [],
-    "createdAt": "2026-03-20T10:09:53.370Z",
-    "group": "cellule",
-    "jobRole": "Alternant.e Cadreur.se / Monteur.se",
-    "role": "user",
-    "appPermissions": {
-      "backupflow": "active",
-      "transporter": "active",
-      "reviewer": "active",
-      "manifest": "active"
-    },
-    "avatar": "assets/avatars/avatar_23.png"
-  },
-  {
     "id": "p_1774200650086",
     "firstName": "Sam",
     "lastName": "Pavloff",
