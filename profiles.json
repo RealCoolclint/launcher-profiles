@@ -22,7 +22,10 @@
       "transporter",
       "manifest",
       "reviewer"
-    ]
+    ],
+    "settings": {
+      "dashboardView": "list"
+    }
   },
   {
     "id": "p_1774200650086",
