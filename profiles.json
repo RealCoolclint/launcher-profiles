@@ -16,7 +16,7 @@
       "manifest": "active"
     },
     "avatar": "assets/avatars/avatar_13.jpeg",
-    "soundEnabled": false,
+    "soundEnabled": true,
     "seenApps": [
       "backupflow",
       "transporter",
