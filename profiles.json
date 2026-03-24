@@ -49,5 +49,28 @@
     },
     "soundEnabled": false,
     "seenApps": []
+  },
+  {
+    "id": "p_1774336240839",
+    "firstName": "Nina",
+    "lastName": "Pavloff",
+    "email": "npavloff@letudiant.fr",
+    "favorites": [],
+    "seenApps": [],
+    "soundEnabled": true,
+    "settings": {
+      "volume": 100,
+      "soundAutostart": true,
+      "dmgPath": "",
+      "startupApp": "",
+      "dashboardView": "wide",
+      "notifUpdates": true,
+      "notifSummary": true,
+      "showMottos": true,
+      "showBadges": true,
+      "launchAtLogin": false
+    },
+    "createdAt": "2026-03-24T07:10:40.839Z",
+    "avatar": "assets/avatars/avatar_24.png"
   }
 ]
