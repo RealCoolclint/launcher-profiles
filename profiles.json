@@ -72,5 +72,170 @@
     },
     "createdAt": "2026-03-24T07:10:40.839Z",
     "avatar": "assets/avatars/avatar_24.png"
+  },
+  {
+    "id": "17620274114058o6qg2c5n",
+    "firstName": "Antoine",
+    "lastName": "",
+    "email": "apaley@letudiant.fr",
+    "role": "user",
+    "group": "cellule",
+    "jobRole": "",
+    "avatar": null,
+    "soundEnabled": true,
+    "favorites": [],
+    "seenApps": [],
+    "appPermissions": {
+      "backupflow": "active",
+      "transporter": "active",
+      "reviewer": "active",
+      "manifest": "active"
+    },
+    "settings": {},
+    "appSettings": {
+      "backupflow": {
+        "initiales": "AP",
+        "ssdPersoPath": "/Users/studiovideo/Downloads/ZONE TEST",
+        "ssdStudioPath": "/Volumes/SSD-1",
+        "mondayUserId": "67085115",
+        "mondayMode": "monday",
+        "zipNasEnabled": false,
+        "email": "apaley@letudiant.fr",
+        "color": "#eb2424"
+      }
+    },
+    "createdAt": "2025-11-01T20:03:31.405Z"
+  },
+  {
+    "id": "1762027777584bhmx0uydt",
+    "firstName": "Thomas",
+    "lastName": "",
+    "email": "tclicteur@letudiant.fr",
+    "role": "user",
+    "group": "cellule",
+    "jobRole": "",
+    "avatar": null,
+    "soundEnabled": true,
+    "favorites": [],
+    "seenApps": [],
+    "appPermissions": {
+      "backupflow": "active",
+      "transporter": "active",
+      "reviewer": "active",
+      "manifest": "active"
+    },
+    "settings": {},
+    "appSettings": {
+      "backupflow": {
+        "initiales": "TC",
+        "ssdPersoPath": null,
+        "ssdStudioPath": null,
+        "mondayUserId": "68545034",
+        "mondayMode": "monday",
+        "zipNasEnabled": false,
+        "email": "tclicteur@letudiant.fr",
+        "color": "#7f54c0"
+      }
+    },
+    "createdAt": "2025-11-01T20:09:37.584Z"
+  },
+  {
+    "id": "1762027832543tkvmqrvir",
+    "firstName": "Charlyne",
+    "lastName": "",
+    "email": "cfeneant@letudiant.fr",
+    "role": "user",
+    "group": "cellule",
+    "jobRole": "",
+    "avatar": null,
+    "soundEnabled": true,
+    "favorites": [],
+    "seenApps": [],
+    "appPermissions": {
+      "backupflow": "active",
+      "transporter": "active",
+      "reviewer": "active",
+      "manifest": "active"
+    },
+    "settings": {},
+    "appSettings": {
+      "backupflow": {
+        "initiales": "CF",
+        "ssdPersoPath": "/Volumes/DISQUE DUR CHARLYNE/RUSHS BACKUP",
+        "ssdStudioPath": "/Volumes/SSD-1",
+        "mondayUserId": "83250137",
+        "mondayMode": "monday",
+        "zipNasEnabled": false,
+        "email": "cfeneant@letudiant.fr",
+        "color": "#ebc924"
+      }
+    },
+    "createdAt": "2025-11-01T20:10:32.543Z"
+  },
+  {
+    "id": "1762027871566jszcebbcm",
+    "firstName": "Lisa",
+    "lastName": "",
+    "email": "lmazal@letudiant.fr",
+    "role": "user",
+    "group": "cellule",
+    "jobRole": "",
+    "avatar": null,
+    "soundEnabled": true,
+    "favorites": [],
+    "seenApps": [],
+    "appPermissions": {
+      "backupflow": "active",
+      "transporter": "active",
+      "reviewer": "active",
+      "manifest": "active"
+    },
+    "settings": {},
+    "appSettings": {
+      "backupflow": {
+        "initiales": "LM",
+        "ssdPersoPath": "/Volumes/SSD LISA/RUSHS_BACKUPFLOW",
+        "ssdStudioPath": "/Volumes/SSD-1",
+        "mondayUserId": "83250075",
+        "mondayMode": "monday",
+        "zipNasEnabled": false,
+        "email": "lmazal@letudiant.fr",
+        "color": "#2563eb"
+      }
+    },
+    "createdAt": "2025-11-01T20:11:11.566Z"
+  },
+  {
+    "id": "1762027921739tt06r3j9d",
+    "firstName": "Maëlle",
+    "lastName": "",
+    "email": "mdasneves@letudiant.fr",
+    "role": "user",
+    "group": "cellule",
+    "jobRole": "",
+    "avatar": null,
+    "soundEnabled": true,
+    "favorites": [],
+    "seenApps": [],
+    "appPermissions": {
+      "backupflow": "active",
+      "transporter": "active",
+      "reviewer": "active",
+      "manifest": "active"
+    },
+    "settings": {},
+    "appSettings": {
+      "backupflow": {
+        "initiales": "MDN",
+        "ssdPersoPath": "/Users/studiovideo/Downloads/ZONE TEST",
+        "ssdStudioPath": null,
+        "mondayUserId": "81982349",
+        "mondayMode": "monday",
+        "zipNasEnabled": false,
+        "email": "mdasneves@letudiant.fr",
+        "color": "#dd24eb"
+      }
+    },
+    "createdAt": "2025-11-01T20:12:01.739Z"
   }
 ]
