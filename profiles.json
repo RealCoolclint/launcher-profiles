@@ -25,6 +25,18 @@
     ],
     "settings": {
       "dashboardView": "wide"
+    },
+    "appSettings": {
+      "backupflow": {
+        "initiales": "MP",
+        "ssdPersoPath": "/Volumes/BACKUP PRO/POLE PAR POLE",
+        "ssdStudioPath": "/Volumes/SSD-1",
+        "mondayUserId": "67082975",
+        "mondayMode": "monday",
+        "zipNasEnabled": false,
+        "email": "mpavloff@letudiant.fr",
+        "color": "#2563eb"
+      }
     }
   },
   {
