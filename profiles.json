@@ -37,7 +37,19 @@
         "email": "mpavloff@letudiant.fr",
         "color": "#2563eb"
       }
-    }
+    },
+    "identity": {
+      "firstName": "Martin",
+      "lastName": "Pavloff",
+      "email": "mpavloff@letudiant.fr",
+      "role": "admin",
+      "avatar": "assets/avatars/avatar_13.jpeg",
+      "initiales": "MP",
+      "color": "#2563eb",
+      "mondayUserId": ""
+    },
+    "status": "active",
+    "updatedAt": "2026-03-29T16:04:18.863Z"
   },
   {
     "id": "p_1774200650086",
@@ -60,7 +72,31 @@
       "volume": 100
     },
     "soundEnabled": true,
-    "seenApps": []
+    "seenApps": [],
+    "identity": {
+      "firstName": "Sam",
+      "lastName": "Pavloff",
+      "email": "spavloff@letudiant.fr",
+      "role": "user",
+      "avatar": "assets/avatars/avatar_08.jpeg",
+      "initiales": "SP",
+      "color": "#2563eb",
+      "mondayUserId": ""
+    },
+    "appSettings": {
+      "backupflow": {
+        "ssdPersoPath": "",
+        "ssdStudioPath": "",
+        "mondayMode": "offline",
+        "zipNasEnabled": false
+      },
+      "transporter": {
+        "defaultDestination": "",
+        "mondayMode": "offline"
+      }
+    },
+    "status": "active",
+    "updatedAt": "2026-03-29T16:04:18.863Z"
   },
   {
     "id": "p_1774336240839",
@@ -83,7 +119,31 @@
       "launchAtLogin": false
     },
     "createdAt": "2026-03-24T07:10:40.839Z",
-    "avatar": "assets/avatars/avatar_24.png"
+    "avatar": "assets/avatars/avatar_24.png",
+    "identity": {
+      "firstName": "Nina",
+      "lastName": "Pavloff",
+      "email": "npavloff@letudiant.fr",
+      "role": "user",
+      "avatar": "assets/avatars/avatar_24.png",
+      "initiales": "NP",
+      "color": "#2563eb",
+      "mondayUserId": ""
+    },
+    "appSettings": {
+      "backupflow": {
+        "ssdPersoPath": "",
+        "ssdStudioPath": "",
+        "mondayMode": "offline",
+        "zipNasEnabled": false
+      },
+      "transporter": {
+        "defaultDestination": "",
+        "mondayMode": "offline"
+      }
+    },
+    "status": "active",
+    "updatedAt": "2026-03-29T16:04:18.863Z"
   },
   {
     "id": "17620274114058o6qg2c5n",
@@ -116,7 +176,19 @@
         "color": "#eb2424"
       }
     },
-    "createdAt": "2025-11-01T20:03:31.405Z"
+    "createdAt": "2025-11-01T20:03:31.405Z",
+    "identity": {
+      "firstName": "Antoine",
+      "lastName": "",
+      "email": "apaley@letudiant.fr",
+      "role": "user",
+      "avatar": "",
+      "initiales": "A",
+      "color": "#2563eb",
+      "mondayUserId": ""
+    },
+    "status": "active",
+    "updatedAt": "2026-03-29T16:04:18.863Z"
   },
   {
     "id": "1762027777584bhmx0uydt",
@@ -149,7 +221,19 @@
         "color": "#7f54c0"
       }
     },
-    "createdAt": "2025-11-01T20:09:37.584Z"
+    "createdAt": "2025-11-01T20:09:37.584Z",
+    "identity": {
+      "firstName": "Thomas",
+      "lastName": "",
+      "email": "tclicteur@letudiant.fr",
+      "role": "user",
+      "avatar": "",
+      "initiales": "T",
+      "color": "#2563eb",
+      "mondayUserId": ""
+    },
+    "status": "active",
+    "updatedAt": "2026-03-29T16:04:18.863Z"
   },
   {
     "id": "1762027832543tkvmqrvir",
@@ -182,7 +266,19 @@
         "color": "#ebc924"
       }
     },
-    "createdAt": "2025-11-01T20:10:32.543Z"
+    "createdAt": "2025-11-01T20:10:32.543Z",
+    "identity": {
+      "firstName": "Charlyne",
+      "lastName": "",
+      "email": "cfeneant@letudiant.fr",
+      "role": "user",
+      "avatar": "",
+      "initiales": "C",
+      "color": "#2563eb",
+      "mondayUserId": ""
+    },
+    "status": "active",
+    "updatedAt": "2026-03-29T16:04:18.864Z"
   },
   {
     "id": "1762027871566jszcebbcm",
@@ -215,7 +311,19 @@
         "color": "#2563eb"
       }
     },
-    "createdAt": "2025-11-01T20:11:11.566Z"
+    "createdAt": "2025-11-01T20:11:11.566Z",
+    "identity": {
+      "firstName": "Lisa",
+      "lastName": "",
+      "email": "lmazal@letudiant.fr",
+      "role": "user",
+      "avatar": "",
+      "initiales": "L",
+      "color": "#2563eb",
+      "mondayUserId": ""
+    },
+    "status": "active",
+    "updatedAt": "2026-03-29T16:04:18.864Z"
   },
   {
     "id": "1762027921739tt06r3j9d",
@@ -248,6 +356,61 @@
         "color": "#dd24eb"
       }
     },
-    "createdAt": "2025-11-01T20:12:01.739Z"
+    "createdAt": "2025-11-01T20:12:01.739Z",
+    "identity": {
+      "firstName": "Maëlle",
+      "lastName": "",
+      "email": "mdasneves@letudiant.fr",
+      "role": "user",
+      "avatar": "",
+      "initiales": "M",
+      "color": "#2563eb",
+      "mondayUserId": ""
+    },
+    "status": "active",
+    "updatedAt": "2026-03-29T16:04:18.864Z"
+  },
+  {
+    "id": "p_1774800318009",
+    "status": "pending",
+    "createdAt": "2026-03-29T16:05:18.009Z",
+    "updatedAt": "2026-03-29T16:05:18.009Z",
+    "identity": {
+      "firstName": "Marion",
+      "lastName": "Duval",
+      "email": "mduval@letudiant.fr",
+      "role": "user",
+      "avatar": "",
+      "initiales": "MD",
+      "color": "#2563eb",
+      "mondayUserId": ""
+    },
+    "appSettings": {
+      "backupflow": {
+        "ssdPersoPath": "",
+        "ssdStudioPath": "",
+        "mondayMode": "offline",
+        "zipNasEnabled": false
+      },
+      "transporter": {
+        "defaultDestination": "",
+        "mondayMode": "offline"
+      }
+    },
+    "favorites": [],
+    "seenApps": [],
+    "soundEnabled": true,
+    "settings": {
+      "volume": 100,
+      "soundAutostart": true,
+      "dmgPath": "",
+      "startupApp": "",
+      "dashboardView": "wide",
+      "notifUpdates": true,
+      "notifSummary": true,
+      "showMottos": true,
+      "showBadges": true,
+      "launchAtLogin": false
+    }
   }
 ]
