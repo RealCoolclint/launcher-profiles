@@ -13,7 +13,8 @@
       "backupflow": "active",
       "transporter": "active",
       "reviewer": "active",
-      "manifest": "active"
+      "manifest": "active",
+      "ark": "active"
     },
     "avatar": "https://raw.githubusercontent.com/RealCoolclint/tranquility-avatars/main/avatar_13.jpeg",
     "soundEnabled": true,
@@ -68,7 +69,8 @@
       "backupflow": "active",
       "transporter": "active",
       "reviewer": "active",
-      "manifest": "active"
+      "manifest": "active",
+      "ark": "active"
     },
     "settings": {
       "volume": 100
@@ -155,7 +157,8 @@
       "backupflow": "active",
       "transporter": "active",
       "reviewer": "active",
-      "manifest": "active"
+      "manifest": "active",
+      "ark": "active"
     },
     "initiales": "NP",
     "color": "#2563eb"
@@ -176,7 +179,8 @@
       "backupflow": "active",
       "transporter": "active",
       "reviewer": "active",
-      "manifest": "active"
+      "manifest": "active",
+      "ark": "active"
     },
     "settings": {},
     "appSettings": {
@@ -223,7 +227,8 @@
       "backupflow": "active",
       "transporter": "active",
       "reviewer": "active",
-      "manifest": "active"
+      "manifest": "active",
+      "ark": "active"
     },
     "settings": {},
     "appSettings": {
@@ -270,7 +275,8 @@
       "backupflow": "active",
       "transporter": "active",
       "reviewer": "active",
-      "manifest": "active"
+      "manifest": "active",
+      "ark": "active"
     },
     "settings": {},
     "appSettings": {
@@ -317,7 +323,8 @@
       "backupflow": "active",
       "transporter": "active",
       "reviewer": "active",
-      "manifest": "active"
+      "manifest": "active",
+      "ark": "active"
     },
     "settings": {},
     "appSettings": {
@@ -397,7 +404,8 @@
       "backupflow": "active",
       "transporter": "active",
       "reviewer": "active",
-      "manifest": "active"
+      "manifest": "active",
+      "ark": "active"
     },
     "initiales": "MD",
     "color": "#2563eb",
