@@ -15,7 +15,7 @@
       "reviewer": "active",
       "manifest": "active"
     },
-    "avatar": "assets/avatars/avatar_13.jpeg",
+    "avatar": "https://raw.githubusercontent.com/RealCoolclint/tranquility-avatars/main/avatar_13.jpeg",
     "soundEnabled": true,
     "seenApps": [
       "backupflow",
@@ -43,13 +43,15 @@
       "lastName": "Pavloff",
       "email": "mpavloff@letudiant.fr",
       "role": "admin",
-      "avatar": "assets/avatars/avatar_13.jpeg",
+      "avatar": "https://raw.githubusercontent.com/RealCoolclint/tranquility-avatars/main/avatar_13.jpeg",
       "initiales": "MP",
       "color": "#2563eb",
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-03-29T16:05:41.175Z"
+    "updatedAt": "2026-03-29T16:05:41.175Z",
+    "initiales": "MP",
+    "color": "#2563eb"
   },
   {
     "id": "p_1774200650086",
@@ -58,7 +60,7 @@
     "email": "spavloff@letudiant.fr",
     "favorites": [],
     "createdAt": "2026-03-22T17:30:50.086Z",
-    "avatar": "assets/avatars/avatar_08.jpeg",
+    "avatar": "https://raw.githubusercontent.com/RealCoolclint/tranquility-avatars/main/avatar_08.jpeg",
     "group": "cellule",
     "jobRole": "",
     "role": "user",
@@ -78,7 +80,7 @@
       "lastName": "Pavloff",
       "email": "spavloff@letudiant.fr",
       "role": "user",
-      "avatar": "assets/avatars/avatar_08.jpeg",
+      "avatar": "https://raw.githubusercontent.com/RealCoolclint/tranquility-avatars/main/avatar_08.jpeg",
       "initiales": "SP",
       "color": "#2563eb",
       "mondayUserId": ""
@@ -96,7 +98,9 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-03-29T16:05:41.175Z"
+    "updatedAt": "2026-03-29T16:05:41.175Z",
+    "initiales": "SP",
+    "color": "#2563eb"
   },
   {
     "id": "p_1774336240839",
@@ -119,13 +123,13 @@
       "launchAtLogin": false
     },
     "createdAt": "2026-03-24T07:10:40.839Z",
-    "avatar": "assets/avatars/avatar_24.png",
+    "avatar": "https://raw.githubusercontent.com/RealCoolclint/tranquility-avatars/main/avatar_24.png",
     "identity": {
       "firstName": "Nina",
       "lastName": "Pavloff",
       "email": "npavloff@letudiant.fr",
       "role": "user",
-      "avatar": "assets/avatars/avatar_24.png",
+      "avatar": "https://raw.githubusercontent.com/RealCoolclint/tranquility-avatars/main/avatar_24.png",
       "initiales": "NP",
       "color": "#2563eb",
       "mondayUserId": ""
@@ -152,52 +156,9 @@
       "transporter": "active",
       "reviewer": "active",
       "manifest": "active"
-    }
-  },
-  {
-    "id": "17620274114058o6qg2c5n",
-    "firstName": "Antoine",
-    "lastName": "",
-    "email": "apaley@letudiant.fr",
-    "role": "user",
-    "group": "cellule",
-    "jobRole": "",
-    "avatar": null,
-    "soundEnabled": true,
-    "favorites": [],
-    "seenApps": [],
-    "appPermissions": {
-      "backupflow": "active",
-      "transporter": "active",
-      "reviewer": "active",
-      "manifest": "active"
     },
-    "settings": {},
-    "appSettings": {
-      "backupflow": {
-        "initiales": "AP",
-        "ssdPersoPath": "/Users/studiovideo/Downloads/ZONE TEST",
-        "ssdStudioPath": "/Volumes/SSD-1",
-        "mondayUserId": "67085115",
-        "mondayMode": "monday",
-        "zipNasEnabled": false,
-        "email": "apaley@letudiant.fr",
-        "color": "#eb2424"
-      }
-    },
-    "createdAt": "2025-11-01T20:03:31.405Z",
-    "identity": {
-      "firstName": "Antoine",
-      "lastName": "",
-      "email": "apaley@letudiant.fr",
-      "role": "user",
-      "avatar": "",
-      "initiales": "A",
-      "color": "#2563eb",
-      "mondayUserId": ""
-    },
-    "status": "active",
-    "updatedAt": "2026-03-29T16:05:41.175Z"
+    "initiales": "NP",
+    "color": "#2563eb"
   },
   {
     "id": "1762027777584bhmx0uydt",
@@ -237,12 +198,14 @@
       "email": "tclicteur@letudiant.fr",
       "role": "user",
       "avatar": "",
-      "initiales": "T",
-      "color": "#2563eb",
+      "initiales": "TC",
+      "color": "#7f54c0",
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-03-29T16:05:41.175Z"
+    "updatedAt": "2026-03-29T16:05:41.175Z",
+    "initiales": "TC",
+    "color": "#7f54c0"
   },
   {
     "id": "1762027832543tkvmqrvir",
@@ -282,12 +245,14 @@
       "email": "cfeneant@letudiant.fr",
       "role": "user",
       "avatar": "",
-      "initiales": "C",
-      "color": "#2563eb",
+      "initiales": "CF",
+      "color": "#ebc924",
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-03-29T16:05:41.175Z"
+    "updatedAt": "2026-03-29T16:05:41.175Z",
+    "initiales": "CF",
+    "color": "#ebc924"
   },
   {
     "id": "1762027871566jszcebbcm",
@@ -327,12 +292,14 @@
       "email": "lmazal@letudiant.fr",
       "role": "user",
       "avatar": "",
-      "initiales": "L",
+      "initiales": "LM",
       "color": "#2563eb",
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-03-29T16:05:41.175Z"
+    "updatedAt": "2026-03-29T16:05:41.175Z",
+    "initiales": "LM",
+    "color": "#2563eb"
   },
   {
     "id": "1762027921739tt06r3j9d",
@@ -372,12 +339,14 @@
       "email": "mdasneves@letudiant.fr",
       "role": "user",
       "avatar": "",
-      "initiales": "M",
-      "color": "#2563eb",
+      "initiales": "MDN",
+      "color": "#dd24eb",
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-03-29T16:05:41.175Z"
+    "updatedAt": "2026-03-29T16:05:41.175Z",
+    "initiales": "MDN",
+    "color": "#dd24eb"
   },
   {
     "id": "p_1774800318009",
@@ -429,6 +398,10 @@
       "transporter": "active",
       "reviewer": "active",
       "manifest": "active"
-    }
+    },
+    "initiales": "MD",
+    "color": "#2563eb",
+    "firstName": "Marion",
+    "lastName": "Duval"
   }
 ]
