@@ -411,5 +411,50 @@
     "color": "#2563eb",
     "firstName": "Marion",
     "lastName": "Duval"
+  },
+  {
+    "id": "17620274114058o6qg2c5n",
+    "firstName": "Antoine",
+    "lastName": "",
+    "email": "apaley@letudiant.fr",
+    "role": "user",
+    "group": "cellule",
+    "jobRole": "",
+    "avatar": null,
+    "soundEnabled": true,
+    "favorites": [],
+    "seenApps": [],
+    "appPermissions": {
+      "backupflow": "active",
+      "transporter": "active",
+      "reviewer": "active",
+      "manifest": "active"
+    },
+    "settings": {},
+    "appSettings": {
+      "backupflow": {
+        "initiales": "AP",
+        "ssdPersoPath": "/Users/studiovideo/Downloads/ZONE TEST",
+        "ssdStudioPath": "/Volumes/SSD-1",
+        "mondayUserId": "67085115",
+        "mondayMode": "monday",
+        "zipNasEnabled": false,
+        "email": "apaley@letudiant.fr",
+        "color": "#eb2424"
+      }
+    },
+    "createdAt": "2025-11-01T20:03:31.405Z",
+    "identity": {
+      "firstName": "Antoine",
+      "lastName": "",
+      "email": "apaley@letudiant.fr",
+      "role": "user",
+      "avatar": "",
+      "initiales": "A",
+      "color": "#2563eb",
+      "mondayUserId": ""
+    },
+    "status": "active",
+    "updatedAt": "2026-03-29T16:05:41.175Z"
   }
 ]
