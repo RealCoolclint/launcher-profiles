@@ -445,5 +445,48 @@
       "reviewer": "active",
       "manifest": "active"
     }
+  },
+  {
+    "id": "p_1775511090454",
+    "status": "pending",
+    "createdAt": "2026-04-06T21:31:30.454Z",
+    "updatedAt": "2026-04-06T21:31:30.454Z",
+    "identity": {
+      "firstName": "Harold",
+      "lastName": "Decaillot",
+      "email": "adecaillot@letudiant.fr",
+      "role": "user",
+      "avatar": "",
+      "initiales": "HD",
+      "color": "#2563eb",
+      "mondayUserId": ""
+    },
+    "appSettings": {
+      "backupflow": {
+        "ssdPersoPath": "",
+        "ssdStudioPath": "",
+        "mondayMode": "offline",
+        "zipNasEnabled": false
+      },
+      "transporter": {
+        "defaultDestination": "",
+        "mondayMode": "offline"
+      }
+    },
+    "favorites": [],
+    "seenApps": [],
+    "soundEnabled": true,
+    "settings": {
+      "volume": 100,
+      "soundAutostart": true,
+      "dmgPath": "",
+      "startupApp": "",
+      "dashboardView": "wide",
+      "notifUpdates": true,
+      "notifSummary": true,
+      "showMottos": true,
+      "showBadges": true,
+      "launchAtLogin": false
+    }
   }
 ]
