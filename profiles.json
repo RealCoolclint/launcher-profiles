@@ -89,7 +89,7 @@
     "createdAt": "2025-11-01T20:09:37.584Z",
     "identity": {
       "firstName": "Thomas",
-      "lastName": "",
+      "lastName": "Clicteur",
       "email": "tclicteur@letudiant.fr",
       "role": "user",
       "avatar": "",
@@ -98,7 +98,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-03-29T16:05:41.175Z",
+    "updatedAt": "2026-04-06T21:29:34.832Z",
     "initiales": "TC",
     "color": "#7f54c0"
   },
