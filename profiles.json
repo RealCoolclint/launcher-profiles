@@ -50,7 +50,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T09:53:03.605Z",
+    "updatedAt": "2026-04-07T10:21:35.614Z",
     "initiales": "MP",
     "color": "#2563eb"
   },
@@ -98,7 +98,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T09:53:03.605Z",
+    "updatedAt": "2026-04-07T10:21:35.614Z",
     "initiales": "TC",
     "color": "#7f54c0"
   },
@@ -146,7 +146,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T09:53:03.605Z",
+    "updatedAt": "2026-04-07T10:21:35.614Z",
     "initiales": "CF",
     "color": "#ebc924"
   },
@@ -194,7 +194,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T09:53:03.605Z",
+    "updatedAt": "2026-04-07T10:21:35.614Z",
     "initiales": "LM",
     "color": "#2563eb"
   },
@@ -242,7 +242,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T09:53:03.605Z",
+    "updatedAt": "2026-04-07T10:21:35.614Z",
     "initiales": "MDN",
     "color": "#dd24eb"
   },
@@ -289,7 +289,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T10:21:33.139Z"
+    "updatedAt": "2026-04-07T10:21:35.614Z"
   },
   {
     "id": "p_1775512483113",
@@ -330,7 +330,7 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T09:53:03.605Z",
+    "updatedAt": "2026-04-07T10:21:35.614Z",
     "group": "cellule",
     "jobRole": ""
   },
@@ -373,7 +373,7 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T09:53:03.605Z",
+    "updatedAt": "2026-04-07T10:21:35.614Z",
     "group": "cellule",
     "jobRole": ""
   },
@@ -416,7 +416,7 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T09:53:03.605Z",
+    "updatedAt": "2026-04-07T10:21:35.614Z",
     "group": "cellule",
     "jobRole": ""
   },
@@ -579,7 +579,7 @@
     "id": "p_1775511090454",
     "status": "pending",
     "createdAt": "2026-04-06T21:31:30.454Z",
-    "updatedAt": "2026-04-07T09:53:03.605Z",
+    "updatedAt": "2026-04-07T10:21:35.614Z",
     "identity": {
       "firstName": "Harold",
       "lastName": "Decaillot",
@@ -631,7 +631,7 @@
     "id": "p_1775511117845",
     "status": "pending",
     "createdAt": "2026-04-06T21:31:57.845Z",
-    "updatedAt": "2026-04-07T09:53:03.605Z",
+    "updatedAt": "2026-04-07T10:21:35.614Z",
     "identity": {
       "firstName": "Jonathan",
       "lastName": "Petit",
@@ -683,7 +683,7 @@
     "id": "p_1775511149962",
     "status": "pending",
     "createdAt": "2026-04-06T21:32:29.962Z",
-    "updatedAt": "2026-04-07T09:53:03.605Z",
+    "updatedAt": "2026-04-07T10:21:35.614Z",
     "identity": {
       "firstName": "Anne",
       "lastName": "Champomier",
