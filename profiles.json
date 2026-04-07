@@ -50,7 +50,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:33:28.732Z",
+    "updatedAt": "2026-04-07T16:42:35.649Z",
     "initiales": "MP",
     "color": "#2563eb"
   },
@@ -98,7 +98,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:33:28.732Z",
+    "updatedAt": "2026-04-07T16:42:35.649Z",
     "initiales": "TC",
     "color": "#7f54c0"
   },
@@ -146,7 +146,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:33:28.732Z",
+    "updatedAt": "2026-04-07T16:42:35.649Z",
     "initiales": "CF",
     "color": "#ebc924"
   },
@@ -194,7 +194,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:33:28.732Z",
+    "updatedAt": "2026-04-07T16:42:35.649Z",
     "initiales": "LM",
     "color": "#2563eb"
   },
@@ -242,7 +242,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:33:28.732Z",
+    "updatedAt": "2026-04-07T16:42:35.649Z",
     "initiales": "MDN",
     "color": "#dd24eb"
   },
@@ -289,7 +289,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:33:28.732Z"
+    "updatedAt": "2026-04-07T16:42:35.649Z"
   },
   {
     "id": "p_1775512483113",
@@ -330,7 +330,7 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:33:28.732Z",
+    "updatedAt": "2026-04-07T16:42:35.649Z",
     "group": "redaction",
     "jobRole": "Journaliste"
   },
@@ -373,7 +373,7 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:33:28.732Z",
+    "updatedAt": "2026-04-07T16:42:35.649Z",
     "group": "redaction",
     "jobRole": "Journaliste"
   },
@@ -416,7 +416,7 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:33:28.732Z",
+    "updatedAt": "2026-04-07T16:42:35.649Z",
     "group": "redaction",
     "jobRole": "Journaliste"
   },
@@ -579,7 +579,7 @@
     "id": "p_1775580143017",
     "status": "pending",
     "createdAt": "2026-04-07T16:42:23.017Z",
-    "updatedAt": "2026-04-07T16:42:23.017Z",
+    "updatedAt": "2026-04-07T16:42:35.649Z",
     "identity": {
       "firstName": "Alan",
       "lastName": "Shepard",
@@ -616,6 +616,15 @@
       "showMottos": true,
       "showBadges": true,
       "launchAtLogin": false
+    },
+    "group": "cellule",
+    "jobRole": "",
+    "role": "user",
+    "appPermissions": {
+      "backupflow": "active",
+      "transporter": "active",
+      "reviewer": "active",
+      "manifest": "active"
     }
   }
 ]
