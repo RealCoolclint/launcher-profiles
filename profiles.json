@@ -50,7 +50,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:32:59.407Z",
+    "updatedAt": "2026-04-07T16:33:28.732Z",
     "initiales": "MP",
     "color": "#2563eb"
   },
@@ -98,7 +98,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:32:59.407Z",
+    "updatedAt": "2026-04-07T16:33:28.732Z",
     "initiales": "TC",
     "color": "#7f54c0"
   },
@@ -146,7 +146,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:32:59.407Z",
+    "updatedAt": "2026-04-07T16:33:28.732Z",
     "initiales": "CF",
     "color": "#ebc924"
   },
@@ -194,7 +194,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:32:59.407Z",
+    "updatedAt": "2026-04-07T16:33:28.732Z",
     "initiales": "LM",
     "color": "#2563eb"
   },
@@ -242,7 +242,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:32:59.407Z",
+    "updatedAt": "2026-04-07T16:33:28.732Z",
     "initiales": "MDN",
     "color": "#dd24eb"
   },
@@ -289,7 +289,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:32:59.407Z"
+    "updatedAt": "2026-04-07T16:33:28.732Z"
   },
   {
     "id": "p_1775512483113",
@@ -330,7 +330,7 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:32:59.407Z",
+    "updatedAt": "2026-04-07T16:33:28.732Z",
     "group": "redaction",
     "jobRole": "Journaliste"
   },
@@ -373,7 +373,7 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:32:59.407Z",
+    "updatedAt": "2026-04-07T16:33:28.732Z",
     "group": "redaction",
     "jobRole": "Journaliste"
   },
@@ -416,7 +416,7 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:32:59.407Z",
+    "updatedAt": "2026-04-07T16:33:28.732Z",
     "group": "redaction",
     "jobRole": "Journaliste"
   },
@@ -579,7 +579,7 @@
     "id": "p_1775579600775",
     "status": "active",
     "createdAt": "2026-04-07T16:33:20.775Z",
-    "updatedAt": "2026-04-07T16:33:25.607Z",
+    "updatedAt": "2026-04-07T16:33:28.733Z",
     "identity": {
       "firstName": "Alan",
       "lastName": "Shepard",
@@ -616,6 +616,15 @@
       "showMottos": true,
       "showBadges": true,
       "launchAtLogin": false
+    },
+    "group": "cellule",
+    "jobRole": "",
+    "role": "user",
+    "appPermissions": {
+      "backupflow": "active",
+      "transporter": "active",
+      "reviewer": "active",
+      "manifest": "active"
     }
   }
 ]
