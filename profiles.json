@@ -50,7 +50,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T11:00:58.298Z",
+    "updatedAt": "2026-04-07T11:18:12.043Z",
     "initiales": "MP",
     "color": "#2563eb"
   },
@@ -98,7 +98,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T11:00:58.298Z",
+    "updatedAt": "2026-04-07T11:18:12.043Z",
     "initiales": "TC",
     "color": "#7f54c0"
   },
@@ -146,7 +146,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T11:00:58.298Z",
+    "updatedAt": "2026-04-07T11:18:12.043Z",
     "initiales": "CF",
     "color": "#ebc924"
   },
@@ -194,7 +194,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T11:00:58.298Z",
+    "updatedAt": "2026-04-07T11:18:12.043Z",
     "initiales": "LM",
     "color": "#2563eb"
   },
@@ -242,7 +242,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T11:00:58.298Z",
+    "updatedAt": "2026-04-07T11:18:12.043Z",
     "initiales": "MDN",
     "color": "#dd24eb"
   },
@@ -289,7 +289,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T11:00:58.298Z"
+    "updatedAt": "2026-04-07T11:18:12.043Z"
   },
   {
     "id": "p_1775512483113",
@@ -330,9 +330,9 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T11:00:58.298Z",
+    "updatedAt": "2026-04-07T11:18:12.043Z",
     "group": "redaction",
-    "jobRole": ""
+    "jobRole": "Journaliste"
   },
   {
     "id": "p_1775512483114",
@@ -373,9 +373,9 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T11:00:58.298Z",
+    "updatedAt": "2026-04-07T11:18:12.043Z",
     "group": "redaction",
-    "jobRole": ""
+    "jobRole": "Journaliste"
   },
   {
     "id": "p_1775512483115",
@@ -416,9 +416,9 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T11:00:58.298Z",
+    "updatedAt": "2026-04-07T11:18:12.043Z",
     "group": "redaction",
-    "jobRole": ""
+    "jobRole": "Journaliste"
   },
   {
     "id": "p_1774200650086",
