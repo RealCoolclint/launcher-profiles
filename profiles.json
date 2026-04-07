@@ -310,7 +310,7 @@
     "identity": {
       "firstName": "Harold",
       "lastName": "Decaillot",
-      "email": "",
+      "email": "hdecaillot@letudiant.fr",
       "role": "user",
       "avatar": "",
       "initiales": "HC",
@@ -330,7 +330,7 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T10:59:04.474Z",
+    "updatedAt": "2026-04-07T11:00:54.697Z",
     "group": "redaction",
     "jobRole": ""
   },
