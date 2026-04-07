@@ -22,7 +22,8 @@
       "backupflow",
       "transporter",
       "manifest",
-      "reviewer"
+      "reviewer",
+      "ark"
     ],
     "settings": {
       "dashboardView": "wide"
