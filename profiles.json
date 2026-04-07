@@ -50,7 +50,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T10:28:07.610Z",
+    "updatedAt": "2026-04-07T10:58:36.403Z",
     "initiales": "MP",
     "color": "#2563eb"
   },
@@ -61,7 +61,7 @@
     "email": "tclicteur@letudiant.fr",
     "role": "user",
     "group": "cellule",
-    "jobRole": "",
+    "jobRole": "Cadreur.se / Monteur.se référent.e",
     "avatar": null,
     "soundEnabled": true,
     "favorites": [],
@@ -98,7 +98,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T10:28:07.610Z",
+    "updatedAt": "2026-04-07T10:58:36.403Z",
     "initiales": "TC",
     "color": "#7f54c0"
   },
@@ -109,7 +109,7 @@
     "email": "cfeneant@letudiant.fr",
     "role": "user",
     "group": "cellule",
-    "jobRole": "",
+    "jobRole": "Alternant.e Cadreur.se / Monteur.se",
     "avatar": null,
     "soundEnabled": true,
     "favorites": [],
@@ -146,7 +146,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T10:28:07.610Z",
+    "updatedAt": "2026-04-07T10:58:36.403Z",
     "initiales": "CF",
     "color": "#ebc924"
   },
@@ -157,7 +157,7 @@
     "email": "lmazal@letudiant.fr",
     "role": "user",
     "group": "cellule",
-    "jobRole": "",
+    "jobRole": "Alternant.e Cadreur.se / Monteur.se",
     "avatar": null,
     "soundEnabled": true,
     "favorites": [],
@@ -194,7 +194,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T10:28:07.610Z",
+    "updatedAt": "2026-04-07T10:58:36.403Z",
     "initiales": "LM",
     "color": "#2563eb"
   },
@@ -205,7 +205,7 @@
     "email": "mdasneves@letudiant.fr",
     "role": "user",
     "group": "cellule",
-    "jobRole": "",
+    "jobRole": "Alternant.e Cadreur.se / Monteur.se",
     "avatar": null,
     "soundEnabled": true,
     "favorites": [],
@@ -242,7 +242,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T10:28:07.610Z",
+    "updatedAt": "2026-04-07T10:58:36.403Z",
     "initiales": "MDN",
     "color": "#dd24eb"
   },
@@ -253,7 +253,7 @@
     "email": "apaley@letudiant.fr",
     "role": "user",
     "group": "cellule",
-    "jobRole": "",
+    "jobRole": "Cadreur.se / Monteur.se sénior.e",
     "avatar": null,
     "soundEnabled": true,
     "favorites": [],
@@ -289,7 +289,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T10:28:07.610Z"
+    "updatedAt": "2026-04-07T10:58:36.403Z"
   },
   {
     "id": "p_1775512483113",
@@ -330,8 +330,8 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T10:28:07.610Z",
-    "group": "cellule",
+    "updatedAt": "2026-04-07T10:58:36.403Z",
+    "group": "redaction",
     "jobRole": ""
   },
   {
@@ -373,8 +373,8 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T10:28:07.610Z",
-    "group": "cellule",
+    "updatedAt": "2026-04-07T10:58:36.403Z",
+    "group": "redaction",
     "jobRole": ""
   },
   {
@@ -416,8 +416,8 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T10:28:07.610Z",
-    "group": "cellule",
+    "updatedAt": "2026-04-07T10:58:36.403Z",
+    "group": "redaction",
     "jobRole": ""
   },
   {
