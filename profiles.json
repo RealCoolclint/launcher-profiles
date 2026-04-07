@@ -50,7 +50,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:42:35.649Z",
+    "updatedAt": "2026-04-07T16:43:32.014Z",
     "initiales": "MP",
     "color": "#2563eb"
   },
@@ -98,7 +98,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:42:35.649Z",
+    "updatedAt": "2026-04-07T16:43:32.014Z",
     "initiales": "TC",
     "color": "#7f54c0"
   },
@@ -146,7 +146,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:42:35.649Z",
+    "updatedAt": "2026-04-07T16:43:32.014Z",
     "initiales": "CF",
     "color": "#ebc924"
   },
@@ -194,7 +194,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:42:35.649Z",
+    "updatedAt": "2026-04-07T16:43:32.015Z",
     "initiales": "LM",
     "color": "#2563eb"
   },
@@ -242,7 +242,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:42:35.649Z",
+    "updatedAt": "2026-04-07T16:43:32.015Z",
     "initiales": "MDN",
     "color": "#dd24eb"
   },
@@ -289,7 +289,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:42:35.649Z"
+    "updatedAt": "2026-04-07T16:43:32.015Z"
   },
   {
     "id": "p_1775512483113",
@@ -330,7 +330,7 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:42:35.649Z",
+    "updatedAt": "2026-04-07T16:43:32.015Z",
     "group": "redaction",
     "jobRole": "Journaliste"
   },
@@ -373,7 +373,7 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:42:35.649Z",
+    "updatedAt": "2026-04-07T16:43:32.015Z",
     "group": "redaction",
     "jobRole": "Journaliste"
   },
@@ -416,7 +416,7 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T16:42:35.649Z",
+    "updatedAt": "2026-04-07T16:43:32.015Z",
     "group": "redaction",
     "jobRole": "Journaliste"
   },
