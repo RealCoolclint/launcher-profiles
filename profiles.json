@@ -50,7 +50,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-06T21:48:37.009Z",
+    "updatedAt": "2026-04-07T09:53:03.605Z",
     "initiales": "MP",
     "color": "#2563eb"
   },
@@ -98,7 +98,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-06T21:48:37.009Z",
+    "updatedAt": "2026-04-07T09:53:03.605Z",
     "initiales": "TC",
     "color": "#7f54c0"
   },
@@ -146,7 +146,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-06T21:48:37.010Z",
+    "updatedAt": "2026-04-07T09:53:03.605Z",
     "initiales": "CF",
     "color": "#ebc924"
   },
@@ -194,7 +194,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-06T21:48:37.010Z",
+    "updatedAt": "2026-04-07T09:53:03.605Z",
     "initiales": "LM",
     "color": "#2563eb"
   },
@@ -242,7 +242,7 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-06T21:48:37.010Z",
+    "updatedAt": "2026-04-07T09:53:03.605Z",
     "initiales": "MDN",
     "color": "#dd24eb"
   },
@@ -289,29 +289,29 @@
       "mondayUserId": ""
     },
     "status": "active",
-    "updatedAt": "2026-04-07T09:53:00.105Z"
+    "updatedAt": "2026-04-07T09:53:03.605Z"
   },
   {
     "id": "p_1775512483113",
     "firstName": "Harold",
     "lastName": "Decaillot",
     "initiales": "HC",
-    "role": "journalist",
+    "role": "user",
     "avatar": "",
     "color": "#7c3aed",
     "appPermissions": {
-      "backupflow": false,
-      "transporter": false,
+      "backupflow": "active",
+      "transporter": "active",
       "ark": false,
-      "reviewer": true,
-      "manifest": false
+      "reviewer": "active",
+      "manifest": "active"
     },
     "seenApps": [],
     "identity": {
       "firstName": "Harold",
       "lastName": "Decaillot",
       "email": "",
-      "role": "journalist",
+      "role": "user",
       "avatar": "",
       "initiales": "HC",
       "color": "#7c3aed",
@@ -330,29 +330,31 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T09:52:36.070Z"
+    "updatedAt": "2026-04-07T09:53:03.605Z",
+    "group": "cellule",
+    "jobRole": ""
   },
   {
     "id": "p_1775512483114",
     "firstName": "Jonathan",
     "lastName": "Petit",
     "initiales": "JP",
-    "role": "journalist",
+    "role": "user",
     "avatar": "",
     "color": "#0891b2",
     "appPermissions": {
-      "backupflow": false,
-      "transporter": false,
+      "backupflow": "active",
+      "transporter": "active",
       "ark": false,
-      "reviewer": true,
-      "manifest": false
+      "reviewer": "active",
+      "manifest": "active"
     },
     "seenApps": [],
     "identity": {
       "firstName": "Jonathan",
       "lastName": "Petit",
       "email": "",
-      "role": "journalist",
+      "role": "user",
       "avatar": "",
       "initiales": "JP",
       "color": "#0891b2",
@@ -371,29 +373,31 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T09:52:36.070Z"
+    "updatedAt": "2026-04-07T09:53:03.605Z",
+    "group": "cellule",
+    "jobRole": ""
   },
   {
     "id": "p_1775512483115",
     "firstName": "Anne",
     "lastName": "Champomier",
     "initiales": "AC",
-    "role": "journalist",
+    "role": "user",
     "avatar": "",
     "color": "#be185d",
     "appPermissions": {
-      "backupflow": false,
-      "transporter": false,
+      "backupflow": "active",
+      "transporter": "active",
       "ark": false,
-      "reviewer": true,
-      "manifest": false
+      "reviewer": "active",
+      "manifest": "active"
     },
     "seenApps": [],
     "identity": {
       "firstName": "Anne",
       "lastName": "Champomier",
       "email": "",
-      "role": "journalist",
+      "role": "user",
       "avatar": "",
       "initiales": "AC",
       "color": "#be185d",
@@ -412,7 +416,9 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T09:52:36.070Z"
+    "updatedAt": "2026-04-07T09:53:03.605Z",
+    "group": "cellule",
+    "jobRole": ""
   },
   {
     "id": "p_1774200650086",
@@ -573,7 +579,7 @@
     "id": "p_1775511090454",
     "status": "pending",
     "createdAt": "2026-04-06T21:31:30.454Z",
-    "updatedAt": "2026-04-06T21:48:37.010Z",
+    "updatedAt": "2026-04-07T09:53:03.605Z",
     "identity": {
       "firstName": "Harold",
       "lastName": "Decaillot",
@@ -625,7 +631,7 @@
     "id": "p_1775511117845",
     "status": "pending",
     "createdAt": "2026-04-06T21:31:57.845Z",
-    "updatedAt": "2026-04-06T21:48:37.010Z",
+    "updatedAt": "2026-04-07T09:53:03.605Z",
     "identity": {
       "firstName": "Jonathan",
       "lastName": "Petit",
@@ -677,7 +683,7 @@
     "id": "p_1775511149962",
     "status": "pending",
     "createdAt": "2026-04-06T21:32:29.962Z",
-    "updatedAt": "2026-04-06T21:48:37.010Z",
+    "updatedAt": "2026-04-07T09:53:03.605Z",
     "identity": {
       "firstName": "Anne",
       "lastName": "Champomier",
