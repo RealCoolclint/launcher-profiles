@@ -353,7 +353,7 @@
     "identity": {
       "firstName": "Jonathan",
       "lastName": "Petit",
-      "email": "",
+      "email": "jpetit@letudiant.fr",
       "role": "user",
       "avatar": "",
       "initiales": "JP",
@@ -373,7 +373,7 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T10:59:04.474Z",
+    "updatedAt": "2026-04-07T11:00:39.425Z",
     "group": "redaction",
     "jobRole": ""
   },
