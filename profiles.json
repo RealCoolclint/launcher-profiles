@@ -574,57 +574,5 @@
       "reviewer": "active",
       "manifest": "active"
     }
-  },
-  {
-    "id": "p_1775580143017",
-    "status": "pending",
-    "createdAt": "2026-04-07T16:42:23.017Z",
-    "updatedAt": "2026-04-07T16:42:35.649Z",
-    "identity": {
-      "firstName": "Alan",
-      "lastName": "Shepard",
-      "email": "ashepard@letudiant.fr",
-      "role": "user",
-      "avatar": "",
-      "initiales": "AS",
-      "color": "#2563eb",
-      "mondayUserId": ""
-    },
-    "appSettings": {
-      "backupflow": {
-        "ssdPersoPath": "",
-        "ssdStudioPath": "",
-        "mondayMode": "offline",
-        "zipNasEnabled": false
-      },
-      "transporter": {
-        "defaultDestination": "",
-        "mondayMode": "offline"
-      }
-    },
-    "favorites": [],
-    "seenApps": [],
-    "soundEnabled": true,
-    "settings": {
-      "volume": 100,
-      "soundAutostart": true,
-      "dmgPath": "",
-      "startupApp": "",
-      "dashboardView": "wide",
-      "notifUpdates": true,
-      "notifSummary": true,
-      "showMottos": true,
-      "showBadges": true,
-      "launchAtLogin": false
-    },
-    "group": "cellule",
-    "jobRole": "",
-    "role": "user",
-    "appPermissions": {
-      "backupflow": "active",
-      "transporter": "active",
-      "reviewer": "active",
-      "manifest": "active"
-    }
   }
 ]
