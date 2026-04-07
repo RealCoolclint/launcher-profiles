@@ -396,7 +396,7 @@
     "identity": {
       "firstName": "Anne",
       "lastName": "Champomier",
-      "email": "",
+      "email": "achampomier@letudiant.fr",
       "role": "user",
       "avatar": "",
       "initiales": "AC",
@@ -416,7 +416,7 @@
       }
     },
     "status": "active",
-    "updatedAt": "2026-04-07T10:59:04.474Z",
+    "updatedAt": "2026-04-07T11:00:30.315Z",
     "group": "redaction",
     "jobRole": ""
   },
