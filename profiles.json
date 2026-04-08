@@ -17,7 +17,7 @@
       "ark": "active"
     },
     "avatar": "https://raw.githubusercontent.com/RealCoolclint/tranquility-avatars/main/avatar_13.jpeg",
-    "soundEnabled": false,
+    "soundEnabled": true,
     "seenApps": [
       "backupflow",
       "transporter",
