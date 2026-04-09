@@ -26,7 +26,8 @@
       "ark"
     ],
     "settings": {
-      "dashboardView": "wide"
+      "dashboardView": "wide",
+      "launchAtLogin": true
     },
     "appSettings": {
       "backupflow": {
